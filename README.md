@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JHeidary
-- 👀 I’m interested in mathematics and of course programming
+- 👀 I’m interested in mathematics and of course programming(AI)
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on 
 - 📫 give an Email to : jheidary064@gmail.com
